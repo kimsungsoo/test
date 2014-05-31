@@ -1,4 +1,1 @@
-adokokokqwodkqwoko
-qqwqw
-qwqwdqwd
-epflqfplpqwdqw
+git log--since=2.weeks
