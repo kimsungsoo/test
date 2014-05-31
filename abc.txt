@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 git log--since=2.weeks
+=======
+adokokokqwodkqwoko
+qqwqw
+qwqwdqwd
+epflqfplpqwdqw
+>>>>>>> dbad466e1e52bf530102ef866eeed687ae2fc358
